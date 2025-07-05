@@ -67,5 +67,8 @@
     height:250px;
 }
 .imgs{
-    padding-right: 165px;
+    padding-right: 20% ;
+}
+#img4{
+    float: right;
 }
